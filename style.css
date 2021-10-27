@@ -1,0 +1,25 @@
+    body {background-color: #ffffe6; text-align: center;
+
+  font-family: 'Coming Soon', cursive;
+  text-shadow: 4px 4px 4px #aaa;
+  font-size: 28px;
+}
+    div {margin: 0 auto;
+    width: 220px;}
+    ol {border: 5px dotted 	orange;
+    background-color: rgb(245,245,200);
+    text-align: center;
+    width: 150px;
+    margin: 0em;
+    padding:2em;}
+    li {font-style: italic;}
+    p {color: #66aaff;
+     font-family: sans-serif;}
+    ul {background-color: rgb(245,245,200)
+    margin: 0.5em;
+    padding: 0.5em;
+    list-style-type: disc;}
+h1 {
+  font-family: "Allison", cursive;
+  font-family: "Rampart One", cursive;
+}
